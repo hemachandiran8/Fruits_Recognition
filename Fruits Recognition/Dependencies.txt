@@ -4,4 +4,4 @@ Dependencies:
    --Matplotlib
    --Tqdm
    --VGG16
-   --only 6 fruits can be recognised(apple,avacado,banana,strawberry,guava,orange)
+   --only 7 fruits can be recognised(apple,avacado,banana,dates,strawberry,guava,orange)
