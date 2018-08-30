@@ -1,0 +1,7 @@
+Dependencies:
+   --Keras
+   --Tensorflow
+   --Matplotlib
+   --Tqdm
+   --VGG16
+   --only 6 fruits can be recognised(apple,avacado,banana,strawberry,guava,orange)
